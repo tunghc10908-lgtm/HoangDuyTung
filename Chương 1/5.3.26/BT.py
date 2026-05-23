@@ -1,0 +1,10 @@
+tuple=[(1, 2, 3),(4,5,6),(7,8,9),(10,11,12)]
+print(*tuple[0])
+print(*tuple[1])
+print(*tuple[2])
+print(*tuple[3])
+matrix=eval(input("Nhập ma trận: "))
+print(*matrix[0])
+print(*matrix[1])
+print(*matrix[2])
+print(*matrix[3])
